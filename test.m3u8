@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3 Max1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2821/playlist.m3u8
